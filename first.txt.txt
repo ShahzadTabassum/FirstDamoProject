@@ -4,3 +4,5 @@ Hello world
 Demo world
 
 Online Changes on first.txt 
+
+Changes for Smartgit
